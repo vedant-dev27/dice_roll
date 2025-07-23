@@ -1,16 +1,40 @@
-# test_app
+# 🎲 Dice Roll
 
-A new Flutter project.
+A lightweight Flutter app that simulates rolling a dice with a single tap.  
+Perfect for quick games or decision-making!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- 🎯 **Instant dice roll** with random results (1–6)  
+- 🖼️ **Simple, clean UI** with a single button  
+- ⚡ **Fast & lightweight** – no unnecessary clutter  
+- ✅ Works on Android, iOS, and desktop  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Download & Install
+You can download the latest **APK** directly from the [Releases](../../releases) section.  
+No need to build it yourself – just install and start rolling!  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) – for UI  
+- [Dart](https://dart.dev/) – for app logic  
+
+---
+
+## 📌 About This Project
+This was created as a simple practice project to get familiar with Flutter.  
+Future improvements might include:  
+- 🎨 Adding animations  
+- 🎲 Multiple dice rolls  
+- 🔊 Sound effects  
+
+---
+
+## 📄 License
+This project is open-source under the [MIT License](LICENSE).
+
+---
